@@ -9,7 +9,6 @@ body, a{
 
 a{
   text-decoration: none;
-  border-right: solid white 1px;
 }
 a:hover{
   text-decoration: underline;
