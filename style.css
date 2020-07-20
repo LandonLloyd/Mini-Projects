@@ -10,7 +10,6 @@ a{
 }
 a:hover{
   text-decoration: underline;
-  font-size: 30px;
 }
 #main{
   display: flex;
