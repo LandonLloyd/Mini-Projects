@@ -1,0 +1,14 @@
+body{
+  background-color: purple;
+  color: white;
+}
+body, a{
+  color: white;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
