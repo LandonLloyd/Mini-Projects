@@ -5,14 +5,6 @@ body{
 body, a{
   color: white;
 }
-h1{
-  text-align: center;
-}
-p{
-  text-align: center;
-}
-
-
 a{
   text-decoration: none;
 }
@@ -20,19 +12,10 @@ a:hover{
   text-decoration: underline;
   font-size: 30px;
 }
-#aimTrainer{
+#main{
+  display: flex;
+  justify-content: space-evenly;
+}
+#top{
   text-align: center;
 }
-#scoreboard{
-  text-align: center;
-}
-#sqrt{
-  text-align: center;
-}
-#coinFlipper{
-  text-align: center;
-}
-#darkLight{
-  text-align: center;
-}
-
