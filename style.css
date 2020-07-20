@@ -5,12 +5,20 @@ body{
 body, a{
   color: white;
 }
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
 
 a{
   text-decoration: none;
 }
 a:hover{
   text-decoration: underline;
+  font-size: 30px;
 }
 #aimTrainer{
   text-align: center;
@@ -27,6 +35,4 @@ a:hover{
 #darkLight{
   text-align: center;
 }
-#main{
-  text-align: center;
-}
+
