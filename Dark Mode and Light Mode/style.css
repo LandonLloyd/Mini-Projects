@@ -1,0 +1,18 @@
+#body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#change {
+  padding: 20px;
+}
+#darkButton {
+  margin: 10px;
+  cursor: grab;
+}
+
+#lightButton {
+  margin: 10px;
+  cursor: grab;
+}
