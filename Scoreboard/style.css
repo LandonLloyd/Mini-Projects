@@ -1,0 +1,52 @@
+body {
+  font-family: helvetica, sans-serif;
+  color: white;
+  background-color: teal;
+  cursor: pointer;
+}
+
+#main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.team-title {
+  font-size: 50px;
+  border-bottom: 1px solid white;
+}
+
+.team-title:hover{
+  color: black;
+  cursor: grab;
+}
+
+#scores {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.team-score {
+  font-size: 45px;
+}
+
+#buttons1 {
+  float: left;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#buttons2 {
+  float: right;
+  display: flex;
+  justify-content: space-evenly;
+}
+.button {
+  padding: 15px;
+  margin: 15px;
+  font-family: helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  background-color: teal;
+  border-radius: 50%;
+  cursor: crosshair;
+}
