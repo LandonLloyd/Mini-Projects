@@ -3,4 +3,4 @@
 
 # Live Page
 
-[View Live Page here!](a)
+[View Live Page here!](https://landonlloyd.github.io/Mini-Projects/)
